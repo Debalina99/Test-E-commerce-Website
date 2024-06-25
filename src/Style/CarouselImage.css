@@ -54,4 +54,15 @@
       padding: 5px;
     }
   }
+  @media (max-width: 768px) {
+    .carousel {
+      max-width: 100%;
+    }
+  
+    .carousel img {
+      width: 100%;
+      display: none;
+      height:350px;
+    }
+  }
   
