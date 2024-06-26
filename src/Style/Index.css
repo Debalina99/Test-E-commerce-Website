@@ -208,3 +208,23 @@ nav a:hover {
   border-image-slice: 1;
   width:100%;
 }
+
+.checkout-button {
+  background-color: #007bff;
+  color: #fff;
+  border: none;
+  padding: 10px 20px;
+  border-radius: 5px;
+  cursor: pointer;
+  transition: background-color 0.3s;
+}
+
+.checkout-button:hover {
+  background-color: #0056b3;
+}
+@media (max-width: 468px) {
+  .empty-card img{
+    height: 100px;
+    width: 270px;
+  }
+}

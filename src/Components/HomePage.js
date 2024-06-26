@@ -22,9 +22,9 @@ const HomePage = () => {
     <div>
       <Header></Header>
       <Carousel />
-      <div class="d-flex mt-5">
-        <div class="m-auto">
-          <div class="myBox">
+      <div className="d-flex mt-5">
+        <div className="m-auto">
+          <div className="myBox">
             <h2>Featured Selections</h2>
           </div>
         </div>
