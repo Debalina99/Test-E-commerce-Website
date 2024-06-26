@@ -12,7 +12,7 @@ return(
             <p>Mobiles</p>
         </div>
         <div className="header-card">
-            <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQLP1d7s00ziEfRhq4Jmtxy-C19ct3eQxFAxw&s" alt="fashion"></img>
+            <img src="https://img.freepik.com/premium-photo/young-woman-dancing-gorgeous-white-dress_382934-3050.jpg" alt="fashion"></img>
             <p>Fashion</p>
         </div>
         <div className="header-card">
